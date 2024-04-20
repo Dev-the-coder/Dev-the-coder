@@ -2,11 +2,11 @@
 - 😄 Pronouns: He/Him
 
 <h4 align="center">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=rust&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=go&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=neovim&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=black&textfill=bface6&">
 </h4>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <a href="https://github.com/Dev-the-coder">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=ADev-the-coder&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact" />
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-the-coder&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact" />
   </a>
 </p>
 

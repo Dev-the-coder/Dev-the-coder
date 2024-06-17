@@ -7,6 +7,7 @@
 <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=Next.js&text=false&animation=spin&fill=black&textfill=bface6&">
 </h4>
 <a href="https://deveshgportfolio.netlify.app/" target="_blank"> My Portfolio</a>
 <p align="center">
